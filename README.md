@@ -1,0 +1,2 @@
+# FactoryPatternDemo
+Factory Pattern
